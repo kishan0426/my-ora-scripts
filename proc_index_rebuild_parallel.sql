@@ -1,3 +1,8 @@
+
+
+-- Author - Kishan 
+-- Version 1
+
 CREATE OR REPLACE PROCEDURE rbdidx (
     p_table_names IN VARCHAR2 -- Parameter to pass a comma-separated list of table names (optional)
 ) 
